@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+cabecera{
+  background-color: cornflowerblue;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px+2vmin);
+  color:cornsilk
+}
+
+tc{
+  background-color: darkblue;
+  color:rgb(10,10,10);
+  padding: 1%;
+}
